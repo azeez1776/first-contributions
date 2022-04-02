@@ -2834,6 +2834,7 @@ Disguy
 - [lcrnjakovic](https://github.com/lcrnjakovic)
 - [StavrosCaptain](https://github.com/StavrosCaptain)
 - [hzq](https://github.com/xiaolubo)
+- [Hamid Said](https://github.com/hamidsaid)
 - [Ferdian Ardhana](https://github.com/ferdianrura97)
 - [Nishant Suthar](https://github.com/nik25s)
 - [you96](https://github.com/you96)
